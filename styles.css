@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(245, 219, 238);
+    font: size 10px;
+    color: #c2475fc7;
+    font-family:arial
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,300&display=swap');
+h2 {
+    color: #bb586cc7;
+    font-family: 'Roboto', sans-serif; }
+ 
+
+.title {
+    color: #c2475fc7;
+    width: auto; 
+}
+
+.avatar
+{
+    border-radius: 50%;
+    width: 250px;
+    box-shadow:-11px -20px 14px rgba(0, 0, 0, 0.3);
+}
+
+.input-text {
+    background-color: rgb(245, 219, 238);
+}
